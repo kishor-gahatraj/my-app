@@ -1,0 +1,11 @@
+.swiper-container {
+  width: 100%;
+  padding-top: 50px; /* Adjust as needed */
+  padding-bottom: 50px; /* Adjust as needed */
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  /* Other styling properties */
+}
